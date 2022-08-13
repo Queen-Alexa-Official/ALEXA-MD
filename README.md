@@ -3,4 +3,4 @@
 
 - 👋 Hi I'm Alexa Multi-Device Whatsapp Bot
 
-- Thanks To [github.com/nethsaragimhan] @Nethsara Gimhan For Help Me🧡
+- Thanks To <a href="github.com/nethsaragimhan"> @Nethsara Gimhan</a> For Help Me🧡
