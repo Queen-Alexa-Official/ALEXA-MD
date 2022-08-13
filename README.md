@@ -5,9 +5,4 @@
 
 - Thanks To <a href="https://github.com/nethsaragimhan"> @White Hacker</a> For Help Me🧡
 
-```
----
-title: Contact me
-subtitle: Here you'll find all the ways to get in touch with me
----
-```
+https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg
